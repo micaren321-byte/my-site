@@ -48,7 +48,7 @@ export default function Navbar() {
               window.scrollTo({ top: 0, behavior: 'smooth' });
             }}
           >
-            <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-[#3A5F40] to-[#2E4A33] flex items-center justify-center">
+            
       
             </div>
   <img src="/images/logo.png" alt="职芽 Logo" className="h-10 w-auto object-contain" />
