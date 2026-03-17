@@ -48,7 +48,7 @@ export default function Footer() {
                 <Sprout className="w-7 h-7 text-white" />
               </div>
               <div>
-                <div className="text-xl font-bold text-white">职芽教育</div>
+                <div className="text-xl font-bold text-white">职芽求职</div>
                 <div className="text-xs text-white/60">专注大学生央国企就业服务</div>
               </div>
             </div>
