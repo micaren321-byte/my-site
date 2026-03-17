@@ -52,8 +52,7 @@ export default function Navbar() {
               <span className="text-white font-bold text-lg">职</span>
             </div>
            <img 
-  src="/logo.png"  // 如果放在 public 根目录
-  // src="/images/logo.png" // 如果放在 public/images 目录
+  // src="/images/logo.png" 
   alt="职芽 Logo" 
   className="h-10 w-auto object-contain" 
 />
