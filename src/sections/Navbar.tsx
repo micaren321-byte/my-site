@@ -1,3 +1,4 @@
+import logoImg from '@/images/logo4.png'; 
 import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -57,7 +58,12 @@ export default function Navbar() {
               }`}
             >
               <a href="/">
-    <img src="images/logo4.png" alt="Logo" style="height: 50px;">
+    {/* 原来的复杂结构简化为： */}
+<img 
+  src={logoImg} 
+  alt="Logo" 
+  className="h-[50px] w-auto object-contain" 
+/>
 </a>
             </span>
           </a>
