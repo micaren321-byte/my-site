@@ -81,7 +81,7 @@ export default function Contact() {
                 isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
               }`}
             >
-              专业助力，职通未来。赋能青年成长，拓宽职业边界，成就美好未来
+              专业助力，职通未来；赋能青年成长，拓宽职业边界，成就美好未来。
             </p>
             <a href="tel:18640228442">
               <Button
