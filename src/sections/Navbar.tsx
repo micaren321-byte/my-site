@@ -51,13 +51,12 @@ export default function Navbar() {
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-[#3A5F40] to-[#2E4A33] flex items-center justify-center">
               <span className="text-white font-bold text-lg">职</span>
             </div>
-            <span
-              className={`font-bold text-xl transition-colors duration-300 ${
-                isScrolled ? 'text-[#3A5F40]' : 'text-white'
-              }`}
-            >
-              职芽
-            </span>
+           <img 
+  src="/logo.png"  // 如果放在 public 根目录
+  // src="/images/logo.png" // 如果放在 public/images 目录
+  alt="职芽 Logo" 
+  className="h-10 w-auto object-contain" 
+/>
           </a>
 
           {/* Desktop Navigation */}
