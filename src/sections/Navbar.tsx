@@ -56,7 +56,9 @@ export default function Navbar() {
                 isScrolled ? 'text-[#3A5F40]' : 'text-white'
               }`}
             >
-              职芽1111
+              <a href="/">
+    <img src="images/logo4.png" alt="Logo" style="height: 50px;">
+</a>
             </span>
           </a>
 
