@@ -1,9 +1,4 @@
-<img 
-  src="/images/logo4.png" 
-  alt="Logo" 
-  className="h-[50px] w-auto object-contain" 
-/>
-  import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
