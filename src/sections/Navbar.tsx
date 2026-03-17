@@ -48,9 +48,6 @@ export default function Navbar() {
               window.scrollTo({ top: 0, behavior: 'smooth' });
             }}
           >
-            
-      
-            </div>
   <img src="/images/logo.png" alt="职芽 Logo" className="h-10 w-auto object-contain" />
           </a>
 
