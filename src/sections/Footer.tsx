@@ -91,10 +91,10 @@ export default function Footer() {
         <div className="w-full px-4 sm:px-6 lg:px-12 xl:px-20 py-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="text-white/50 text-sm">
-              © 2024 职芽（沈阳）教育咨询有限公司. All rights reserved.
+              © 2026 职芽（沈阳）教育咨询有限公司. All rights reserved.
             </div>
             <div className="flex items-center gap-6 text-sm text-white/50">
-              <span>辽ICP备XXXXXXXX号</span>
+              <span>辽ICP备00000000号</span>
               <span>隐私政策</span>
               <span>服务条款</span>
             </div>
