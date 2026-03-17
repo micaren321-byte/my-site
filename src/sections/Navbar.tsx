@@ -56,7 +56,7 @@ export default function Navbar() {
                 isScrolled ? 'text-[#3A5F40]' : 'text-white'
               }`}
             >
-              职芽教育
+              职芽求职
             </span>
           </a>
 
