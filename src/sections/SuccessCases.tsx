@@ -10,7 +10,7 @@ const companies = [
 ];
 
 const stats = [
-  { value: '多背景', label: '学员成功上岸', icon: TrendingUp },
+  { value: '不同背景', label: '学员成功上岸', icon: TrendingUp },
   { value: '领先', label: '细分领域上岸率', icon: Award },
   { value: '真实', label: '真结果交付', icon: Zap },
 ];
