@@ -4,7 +4,7 @@ import { ArrowRight, Phone, Users, Award, TrendingUp } from 'lucide-react';
 
 const stats = [
   { icon: Award, value: '10+', label: '年行业经验' },
-  { icon: Users, value: '数百名', label: '学员成功上岸' },
+  { icon: Users, value: '每年数百名', label: '学员成功上岸' },
   { icon: TrendingUp, value: '专业', label: 'HR视角评估' },
 ];
 
