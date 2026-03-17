@@ -56,8 +56,7 @@ export default function Navbar() {
                 isScrolled ? 'text-[#3A5F40]' : 'text-white'
               }`}
             >
-              <a href="/">
-            职芽求职
+              职芽1111
             </span>
           </a>
 
