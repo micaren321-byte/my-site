@@ -12,13 +12,13 @@ const contactInfo = [
   {
     icon: Mail,
     label: '电子邮箱',
-    value: 'contact@zhiyaedu.com',
+    value: 'renyani@careerbud.cn',
     href: 'mailto:contact@zhiyaedu.com',
   },
   {
     icon: MapPin,
     label: '公司地址',
-    value: '沈阳市',
+    value: '辽宁省沈阳市',
     href: '#',
   },
   {
