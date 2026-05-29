@@ -6,7 +6,7 @@ const products = [
   {
     id: 'ZY001',
     name: '咨询规划',
-    price: '498',
+    price: '298',
     unit: '起',
     period: '即时',
     description: '就业咨询规划咨询1小时',
@@ -50,12 +50,12 @@ const products = [
 ];
 
 const otherProducts = [
-  { id: 'ZY002', name: '咨询规划3次', price: '1398', period: '6个月内' },
+  { id: 'ZY002', name: '咨询规划3次', price: '888', period: '6个月内' },
   { id: 'ZY003', name: '简历诊断非修改', price: '98', period: '即时' },
   { id: 'ZY004', name: '简历修改', price: '298', period: '1个月' },
   { id: 'ZY005', name: '岗位精准匹配', price: '999', period: '3个月' },
   { id: 'ZY006', name: '岗位精准匹配', price: '1998', period: '6个月' },
-  { id: 'ZY007', name: '面试辅导单次', price: '298', period: '单次' },
+  { id: 'ZY007', name: '面试辅导单次', price: '498', period: '单次' },
   { id: 'ZY008', name: '面试体系梳理', price: '998', period: '体系产品' },
   { id: 'ZY009', name: '网申答疑', price: '498', period: '6个月' },
 ];
